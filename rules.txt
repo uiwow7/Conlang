@@ -1,0 +1,49 @@
+Sentence structure:
+    - OVS ordering
+    I am happy. -> Ipas yopa bej -> Ipas yopaj -> Ipas yaj -> Ipayj -> Ipÿj.
+    I have been happy over two days. -> Ipas ora yopat leno bej kir jurez -> Ipas ori tyleno bej kidǎz -> Ipao tyéleno bej kidǎz -> Ipaqo tyélenoj kidǎz.
+
+Conjugation:
+    Regular E verbs:
+        Present tense:
+            s1: -a
+            s2: -i
+            s3: -
+            p1: -s
+            p2: -si
+            p3: -sa
+        Past tense:
+            s1: -at
+            s2: -it
+            s3: -ÿ
+            p1: -z
+            p2: -is
+            p3: -as
+    Regular A verbs:
+        Present tense:
+            s1: -i
+            s2: -e
+            s3: -i
+            p1: -z
+            p2: -za
+            p3: -z
+        Past tense:
+            s1: -ad
+            s2: -it
+            s3: -at
+            p1: -z
+            p2: -is
+            p3: -a
+        
+Agglutination:
+    - Connectors are q and é
+    - Connect verb to have or to be using o and y respectively
+    - Connect adjective by adding it to the front and removing the last letter
+    - Convey past tense by adding t to the front (connectors if needed)
+
+Letter replacement:
+    - ay = ÿ /I/
+    - ae/aa = ǎ /A/
+
+Plurals:
+    - add s or z; use connector if needed
