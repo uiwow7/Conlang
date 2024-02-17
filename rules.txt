@@ -1,7 +1,9 @@
 Sentence structure:
     - OVS ordering
-    I am happy. -> Ipas yopa bej -> Ipas yopaj -> Ipas yaj -> Ipayj -> Ipÿj.
-    I have been happy over two days. -> Ipas ora yopat leno bej kir jurez -> Ipas ori tyleno bej kidǎz -> Ipao tyéleno bej kidǎz -> Ipaqo tyélenoj kidǎz.
+    I am happy -> Bej yopa ipas -> yopaj ipas
+    I have been happy over two days -> Bej ora yopat ipas leno kir jurez -> orajty ipas lenokidǎz -> orajtéti ipas lenokidǎz
+    You and I like the days -> Ut te bej emes jurez -> emesutej jurez -> emesutej'urez
+    The happy person likes the days -> Irpon yopa
 
 Conjugation:
     Regular E verbs:
@@ -44,6 +46,11 @@ Agglutination:
 Letter replacement:
     - ay = ÿ /I/
     - ae/aa = ǎ /A/
+    - ǎe/ǎa = ǎté
+    - y+consonant = i+consonant
+    - y at the end of a word = é
+    - tt = d
+    - two of the same consonants across a space: remove the second and add an apostrophe
 
 Plurals:
     - add s or z; use connector if needed

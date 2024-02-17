@@ -53,7 +53,8 @@ EnglishToBe = {
     'ps_p1': "were",
     'ps_p2': "were",
     'ps_p3': "were",
-    'all': ["am", "are", "is", "was", "were"]
+    'allPrd': ["am", "are", "is"], 
+    'allPs': ["was", "were"]
 }
 
 # Convert EnglishToHave class to dictionary
@@ -70,7 +71,8 @@ EnglishToHave = {
     'ps_p1': "had",
     'ps_p2': "had",
     'ps_p3': "had",
-    'all': ["have", "has", "had"]
+    'allPr': ["have", "has"],
+    'allPs': ["had"]
 }
 
 EnglishBase = {
